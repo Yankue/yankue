@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hey, my name's Yankue! I'm a developer from the United Kingdom.
+Hey, my name's Yankue!
 
 Some of my skills:
 
@@ -9,8 +9,8 @@ Some of my skills:
 #### Web Development
 I make a lot of websites using next.js, typescript, javascript, css, mysql, prisma, redis and Ubuntu on aws or galaxygate.
 #### Bots & APIs
-I have done a lot of work with Discord bots, using the raw discord API without a library, and am the owner of a bot in over 1k servers.
+I have done a lot of work with Discord bots, using discord.js and the raw discord API without a library.
 #### Game Development
 With Unity Engine (C#) and Roblox (lua)
 #### Mobile Development
-Primarily Kotlin with a bit of Java knowledge, but recently I've been trying out react native.
+Primarily Kotlin (don't know much Java), but recently I've been trying out react native.
