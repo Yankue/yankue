@@ -14,3 +14,7 @@ I have done a lot of work with Discord bots, using discord.js and the raw discor
 With Unity Engine (C#) and Roblox (lua)
 #### Mobile Development
 Primarily Kotlin (don't know much Java), but recently I've been trying out react native.
+#### Electronic Engineering
+Using EasyEDA and Arduino IDE, primarily for ATTiny85, ATmega328, and Arduino Nano
+#### G-Code Programming
+For a variety of CNC machines and 3D printers
